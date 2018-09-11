@@ -1,1 +1,1 @@
-# mint
+# Redesign Mint sign up page
